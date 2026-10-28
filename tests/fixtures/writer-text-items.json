@@ -1,0 +1,4722 @@
+[
+  {
+    "str": "125284, Россия, г. Москва, пр-кт Ленинградский, д. 35, стр. 1",
+    "dir": "ltr",
+    "width": 224.5200000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      339.75,
+      787.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      488.05,
+      778.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Тел.: 8 800 100-2-100",
+    "dir": "ltr",
+    "width": 78.62400000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      488.05,
+      778.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      442.9,
+      769.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "«Совкомбанк страхование» (АО).",
+    "dir": "ltr",
+    "width": 123.7760000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      442.9,
+      769.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      208.6,
+      760.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Лицензии Банка России СЛ № 1675, СИ № 1675, ОС № 1675-03, ОС № 1675-04, ОС № 1675-05.",
+    "dir": "ltr",
+    "width": 357.7680000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      208.6,
+      760.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      519.6,
+      750.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "sovcomins.ru",
+    "dir": "ltr",
+    "width": 47.11200000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      519.6,
+      750.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Дата направления",
+    "dir": "ltr",
+    "width": 68.4,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 7.699999999999989,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      103.95000000000002,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "26.10.2026",
+    "dir": "ltr",
+    "width": 40.016000000000005,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      111.65,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 11.333999999999946,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      151.66600000000005,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Действует до",
+    "dir": "ltr",
+    "width": 49.15200000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      163,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 33.34800000000001,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      212.152,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "23.12.2026",
+    "dir": "ltr",
+    "width": 40.016000000000005,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      245.5,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      245.5,
+      725.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "00:00:00",
+    "dir": "ltr",
+    "width": 31.120000000000005,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      245.5,
+      725.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Марка/",
+    "dir": "ltr",
+    "width": 25.967999999999993,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      725.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Модель",
+    "dir": "ltr",
+    "width": 28.687999999999985,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      725.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      353,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "LADA",
+    "dir": "ltr",
+    "width": 20.88,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      353,
+      734.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Дата",
+    "dir": "ltr",
+    "width": 17.711999999999996,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "события",
+    "dir": "ltr",
+    "width": 31.304,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      74.8,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "10.08.2026",
+    "dir": "ltr",
+    "width": 40.016000000000005,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      74.8,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 8.834000000000003,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      114.816,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Дата",
+    "dir": "ltr",
+    "width": 17.712000000000018,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      123.65,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      123.65,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "осмотра",
+    "dir": "ltr",
+    "width": 30.776000000000018,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      123.65,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      211.15,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Номер",
+    "dir": "ltr",
+    "width": 24.616,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      211.15,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      211.15,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "убытка",
+    "dir": "ltr",
+    "width": 26.17600000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      211.15,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      245.5,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "TEST-900/2026",
+    "dir": "ltr",
+    "width": 46.696000000000005,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      245.5,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 10.054000000000144,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      292.19599999999986,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "VIN/шасси/",
+    "dir": "ltr",
+    "width": 41.080000000000005,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "рама",
+    "dir": "ltr",
+    "width": 18.840000000000003,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      697.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      353,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "XTAKS045LK1228531",
+    "dir": "ltr",
+    "width": 79.85600000000005,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      353,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 30.74400000000037,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      432.85599999999965,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пробег",
+    "dir": "ltr",
+    "width": 26.48799999999998,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      463.6,
+      706.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Страхователь",
+    "dir": "ltr",
+    "width": 51.71200000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      671.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "(представитель)",
+    "dir": "ltr",
+    "width": 60.360000000000014,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      671.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      111.65,
+      680.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "ООО «Тестовый страхователь»",
+    "dir": "ltr",
+    "width": 76.88000000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      111.65,
+      680.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 113.71999999999991,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      188.5300000000001,
+      680.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Регистрационный",
+    "dir": "ltr",
+    "width": 65.896,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      671.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "номер",
+    "dir": "ltr",
+    "width": 23.256,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      671.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      377.8,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "А123ВС198",
+    "dir": "ltr",
+    "width": 43.29599999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      377.8,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 42.50400000000019,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      421.09599999999983,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Год",
+    "dir": "ltr",
+    "width": 12.735999999999992,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      463.6,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      463.6,
+      671.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "выпуска",
+    "dir": "ltr",
+    "width": 30.343999999999983,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      463.6,
+      671.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      508.6,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "2019",
+    "dir": "ltr",
+    "width": 17.792,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      508.6,
+      680.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      656.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Договор",
+    "dir": "ltr",
+    "width": 30.200000000000003,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      35.55,
+      656.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 9.049999999999997,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      65.75,
+      656.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "POLICY-TEST-25",
+    "dir": "ltr",
+    "width": 65.21600000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      74.8,
+      655.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 22.983999999999952,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      140.01600000000005,
+      655.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Франшиза",
+    "dir": "ltr",
+    "width": 38.38400000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      163,
+      656.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 100.86599999999999,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      201.38400000000001,
+      656.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Цвет",
+    "dir": "ltr",
+    "width": 17.91999999999997,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      302.25,
+      656.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      9,
+      0,
+      0,
+      9,
+      34.843,
+      628.089
+    ],
+    "fontName": "g_d0_f2",
+    "hasEOL": true
+  },
+  {
+    "str": "Список повреждений",
+    "dir": "ltr",
+    "width": 95.346,
+    "height": 9,
+    "transform": [
+      9,
+      0,
+      0,
+      9,
+      34.843,
+      628.089
+    ],
+    "fontName": "g_d0_f2",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      0,
+      7,
+      -7,
+      0,
+      269.8,
+      619.339
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Ремонт",
+    "dir": "ltr",
+    "width": 24.005999999999812,
+    "height": 7,
+    "transform": [
+      0,
+      7,
+      -7,
+      0,
+      269.8,
+      619.339
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      0,
+      7,
+      -7,
+      0,
+      282.3,
+      619.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Замена",
+    "dir": "ltr",
+    "width": 24.59199999999987,
+    "height": 7,
+    "transform": [
+      0,
+      7,
+      -7,
+      0,
+      282.3,
+      619.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      0,
+      7,
+      -7,
+      0,
+      294.95,
+      617.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Окраска",
+    "dir": "ltr",
+    "width": 26.891999999999992,
+    "height": 7,
+    "transform": [
+      0,
+      7,
+      -7,
+      0,
+      294.95,
+      617.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      9,
+      0,
+      0,
+      9,
+      301.543,
+      628.089
+    ],
+    "fontName": "g_d0_f2",
+    "hasEOL": true
+  },
+  {
+    "str": "Примечания:",
+    "dir": "ltr",
+    "width": 58.33799999999998,
+    "height": 9,
+    "transform": [
+      9,
+      0,
+      0,
+      9,
+      301.543,
+      628.089
+    ],
+    "fontName": "g_d0_f2",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      608.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Передняя часть",
+    "dir": "ltr",
+    "width": 59.29600000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      608.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 208.55400000000003,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      92.996,
+      608.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "\"Внимание СТОА! \"Необходимо провести дефектовку ТС с целью",
+    "dir": "ltr",
+    "width": 244.2240000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      607.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      598.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "определения полного перечня работ для восстановления ТС.",
+    "dir": "ltr",
+    "width": 229.408,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      598.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      589.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Результат дефектовки и фото повреждений, идентификационных",
+    "dir": "ltr",
+    "width": 243.92800000000003,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      589.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      580.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "номеров ТС и показания одометра необходимо прислать в порядке",
+    "dir": "ltr",
+    "width": 251.8400000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      580.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      571.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "согласования\" Заявлено - вкрапление твердых частиц в ЛКП ТС.",
+    "dir": "ltr",
+    "width": 242.03199999999987,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      571.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      561.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Потерпевший (представитель) : ЗАЯВИТЕЛЬ 001",
+    "dir": "ltr",
+    "width": 210.008,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      561.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      552.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "ПРЕДСТАВИТЕЛЬ",
+    "dir": "ltr",
+    "width": 59.192000000000014,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      552.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      543.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "(Тел.:9000000001 )",
+    "dir": "ltr",
+    "width": 69.74400000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      543.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      515.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Тел: 8 800 100 2 100",
+    "dir": "ltr",
+    "width": 75.51200000000006,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      515.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      506.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "E-MAIL: SOGLASOVANIE@SOVCOMINS.RU",
+    "dir": "ltr",
+    "width": 164.28800000000007,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      301.55,
+      506.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      303.05,
+      495.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "СТОА",
+    "dir": "ltr",
+    "width": 21.416000000000007,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      303.05,
+      495.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 14.834000000000003,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      324.466,
+      495.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "ООО \"Тестовая основная СТО\"",
+    "dir": "ltr",
+    "width": 122.57600000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      339.3,
+      495.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      303.05,
+      484.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Адрес",
+    "dir": "ltr",
+    "width": 22.888,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      303.05,
+      484.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 13.36200000000008,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      325.93799999999993,
+      484.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Санкт-Петербург, Тестовая улица, 10",
+    "dir": "ltr",
+    "width": 170.0079999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      339.3,
+      484.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      303.05,
+      464.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Телефон",
+    "dir": "ltr",
+    "width": 33.17599999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      303.05,
+      464.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 3.074000000000069,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      336.22599999999994,
+      464.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "7 (812) 5550101",
+    "dir": "ltr",
+    "width": 58.688000000000024,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      339.3,
+      464.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      597.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Бампер/накладка/омыватель/кронштейн",
+    "dir": "ltr",
+    "width": 150.232,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      597.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      587.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Спойлер переднего бампера",
+    "dir": "ltr",
+    "width": 107.24000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      587.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      577.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Фара/стекло/молдинг",
+    "dir": "ltr",
+    "width": 79.55199999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      577.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 79.7760000000002,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      113.252,
+      577.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      193.0280000000002,
+      577.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      567.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Указатель поворота/стекло",
+    "dir": "ltr",
+    "width": 100.64000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      567.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 57.61600000000021,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      134.34000000000003,
+      567.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      191.95600000000024,
+      567.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      557.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Фара/стекло/молдинг",
+    "dir": "ltr",
+    "width": 79.55199999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      557.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 79.7760000000002,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      113.252,
+      557.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      193.0280000000002,
+      557.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      547.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Указатель поворота/стекло",
+    "dir": "ltr",
+    "width": 100.64000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      547.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 57.61600000000021,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      134.34000000000003,
+      547.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      191.95600000000024,
+      547.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      537.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Облиц. радиатора/эмблема",
+    "dir": "ltr",
+    "width": 102.77599999999998,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      537.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      526.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Передняя нижняя панель",
+    "dir": "ltr",
+    "width": 94.57600000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      526.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      516.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Передняя верхняя замковая панель",
+    "dir": "ltr",
+    "width": 134.112,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      516.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      506.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Панель гнезда фары",
+    "dir": "ltr",
+    "width": 77.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      506.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 81.99200000000019,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      111.16400000000002,
+      506.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      193.1560000000002,
+      506.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      496.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Панель гнезда фары",
+    "dir": "ltr",
+    "width": 77.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      496.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 81.99200000000019,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      111.16400000000002,
+      496.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      193.1560000000002,
+      496.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      486.339
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Капот/эмблема/замок/петля",
+    "dir": "ltr",
+    "width": 103.32800000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      486.339
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      476.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Стекло ветровое/уплотнитель/молдинг",
+    "dir": "ltr",
+    "width": 144.55999999999997,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      476.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      466.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Панель ветрового стекла",
+    "dir": "ltr",
+    "width": 93.47200000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      466.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      455.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Крыло/молдинг/пласт, подкрылок",
+    "dir": "ltr",
+    "width": 123.66399999999997,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      455.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 35.45600000000013,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      157.364,
+      455.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      192.82000000000014,
+      455.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      445.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Лонжерон/брызговик",
+    "dir": "ltr",
+    "width": 77.26400000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      445.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 81.99200000000019,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      110.964,
+      445.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      192.9560000000002,
+      445.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      435.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Крыло/молдинг/пласт, подкрылок",
+    "dir": "ltr",
+    "width": 123.66399999999997,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      435.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 35.45600000000013,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      157.364,
+      435.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      192.82000000000014,
+      435.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      425.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Лонжерон/брызговик",
+    "dir": "ltr",
+    "width": 77.26400000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      425.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 81.99200000000019,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      110.964,
+      425.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      192.9560000000002,
+      425.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      415.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Радиатор/кожух/вентилятор",
+    "dir": "ltr",
+    "width": 103.80800000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      415.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      405.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Радиатор кондиционера/кожух/вентилятор",
+    "dir": "ltr",
+    "width": 158.84799999999998,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      405.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      394.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Аккумулятор",
+    "dir": "ltr",
+    "width": 47.192000000000014,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      394.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      384.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Средняя часть",
+    "dir": "ltr",
+    "width": 54.879999999999995,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      384.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      374.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Передняя дверь/стекло/молдинг/ручка",
+    "dir": "ltr",
+    "width": 143.72000000000003,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      374.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 13.29600000000005,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      177.42000000000004,
+      374.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      190.7160000000001,
+      374.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      364.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Передняя дверь/стекло/молдинг/ручка",
+    "dir": "ltr",
+    "width": 143.72000000000003,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      364.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 13.29600000000005,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      177.42000000000004,
+      364.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      190.7160000000001,
+      364.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      354.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задняя дверь/стекло/молдинг/ручка",
+    "dir": "ltr",
+    "width": 134.08800000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      354.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 22.160000000000082,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      167.78800000000004,
+      354.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.94800000000012,
+      354.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      344.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задняя дверь/стекло/молдинг/ручка",
+    "dir": "ltr",
+    "width": 134.08800000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      344.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 22.160000000000082,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      167.78800000000004,
+      344.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.94800000000012,
+      344.239
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      334.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Короб порога/молдинг",
+    "dir": "ltr",
+    "width": 82.75999999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      334.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 73.1280000000002,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      116.46000000000002,
+      334.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.58800000000022,
+      334.089
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      323.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Короб порога/молдинг",
+    "dir": "ltr",
+    "width": 82.75999999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      323.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 73.1280000000002,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      116.46000000000002,
+      323.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.58800000000022,
+      323.939
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      313.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Средняя стойка/обивка",
+    "dir": "ltr",
+    "width": 87.11200000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      313.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 68.6960000000002,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      120.81199999999998,
+      313.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.50800000000018,
+      313.789
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      303.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Средняя стойка/обивка",
+    "dir": "ltr",
+    "width": 87.11200000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      303.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 68.6960000000002,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      120.81199999999998,
+      303.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.50800000000018,
+      303.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      293.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Крыша/обивка/желоб/молдинг",
+    "dir": "ltr",
+    "width": 112.40000000000002,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      293.489
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      283.339
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Люк/электрический/механический/привод",
+    "dir": "ltr",
+    "width": 153.98399999999998,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      283.339
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      273.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Наружное зеркало",
+    "dir": "ltr",
+    "width": 69.32,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      273.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 86.42400000000015,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      103.02000000000001,
+      273.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.44400000000016,
+      273.189
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      263.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Наружное зеркало",
+    "dir": "ltr",
+    "width": 69.32,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      263.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 86.42400000000015,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      103.02000000000001,
+      263.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      189.44400000000016,
+      263.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      252.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задняя часть",
+    "dir": "ltr",
+    "width": 49.664,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      252.889
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      242.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Крыло/молдинг/лючок бенз./пл. подкр.",
+    "dir": "ltr",
+    "width": 142.472,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      242.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 15.512000000000057,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      176.17200000000005,
+      242.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      191.6840000000001,
+      242.739
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      232.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Крыло/молдинг/лючок бенз./пл. подкр.",
+    "dir": "ltr",
+    "width": 142.472,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      232.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 15.512000000000057,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      176.17200000000005,
+      232.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      191.6840000000001,
+      232.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      222.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Пол багажника",
+    "dir": "ltr",
+    "width": 55.272000000000006,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      222.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      212.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задний лонжерон",
+    "dir": "ltr",
+    "width": 66.22399999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      212.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 90.85600000000017,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      99.924,
+      212.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      190.78000000000017,
+      212.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      202.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задний лонжерон",
+    "dir": "ltr",
+    "width": 66.22399999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      202.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 90.85600000000017,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      99.924,
+      202.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      190.78000000000017,
+      202.139
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      191.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Крышка багажника/эмблема/замок/петля",
+    "dir": "ltr",
+    "width": 151.92799999999997,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      191.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      181.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Дверь задка/стекло/молдинг/эмблема/замок",
+    "dir": "ltr",
+    "width": 164.61600000000004,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      181.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      171.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Панель задка/молдинг",
+    "dir": "ltr",
+    "width": 83.82400000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      171.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      161.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задний фонарь/стекло",
+    "dir": "ltr",
+    "width": 85.024,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      161.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 73.12800000000021,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      118.72400000000002,
+      161.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Пр.",
+    "dir": "ltr",
+    "width": 12.408000000000001,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      191.85200000000023,
+      161.539
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      151.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задний фонарь/стекло",
+    "dir": "ltr",
+    "width": 85.024,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      151.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 73.12800000000021,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      118.72400000000002,
+      151.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Л.",
+    "dir": "ltr",
+    "width": 7.464,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      191.85200000000023,
+      151.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      141.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Фонарь освещения номерного знака",
+    "dir": "ltr",
+    "width": 135.80000000000004,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      141.039
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      130.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Задний бампер/накладка/молдинг",
+    "dir": "ltr",
+    "width": 126.72800000000004,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      130.389
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      119.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Выхлопная труба/глушитель",
+    "dir": "ltr",
+    "width": 106.04799999999999,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      119.689
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      108.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Диск/покрышка/колпак",
+    "dir": "ltr",
+    "width": 83.592,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      108.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 75.34400000000021,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      117.29199999999999,
+      108.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "шт.",
+    "dir": "ltr",
+    "width": 11.407999999999994,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      192.6360000000002,
+      108.989
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      98.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Заднее стекло салона",
+    "dir": "ltr",
+    "width": 83.00799999999998,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      33.7,
+      98.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      33.65,
+      72.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "Страховщик",
+    "dir": "ltr",
+    "width": 39.794999999999995,
+    "height": 7,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      33.65,
+      72.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      33.65,
+      63.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "(представитель)",
+    "dir": "ltr",
+    "width": 52.808000000000014,
+    "height": 7,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      33.65,
+      63.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 33.89199999999997,
+    "height": 0,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      86.45800000000003,
+      63.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Сотрудник 001",
+    "dir": "ltr",
+    "width": 96.40800000000003,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      120.35,
+      67.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 83.54200000000003,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      216.75799999999998,
+      67.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "Потерпевший",
+    "dir": "ltr",
+    "width": 44.498999999999995,
+    "height": 7,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      300.3,
+      72.589
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      300.3,
+      63.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "(представитель)",
+    "dir": "ltr",
+    "width": 52.80800000000002,
+    "height": 7,
+    "transform": [
+      7,
+      0,
+      0,
+      7,
+      300.3,
+      63.439
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      387.55,
+      72.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "ЗАЯВИТЕЛЬ 001",
+    "dir": "ltr",
+    "width": 89.92799999999997,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      387.55,
+      72.289
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      402.9,
+      62.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "ПРЕДСТАВИТЕЛЬ",
+    "dir": "ltr",
+    "width": 59.192000000000014,
+    "height": 8,
+    "transform": [
+      8,
+      0,
+      0,
+      8,
+      402.9,
+      62.639
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 0,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      161.85,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": true
+  },
+  {
+    "str": "ФИО",
+    "dir": "ltr",
+    "width": 13.530000000000001,
+    "height": 6,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      161.85,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 85.47000000000003,
+    "height": 0,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      175.38,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "подпись",
+    "dir": "ltr",
+    "width": 22.668000000000024,
+    "height": 6,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      260.85,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 142.23199999999997,
+    "height": 0,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      283.51800000000003,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "ФИО",
+    "dir": "ltr",
+    "width": 13.530000000000001,
+    "height": 6,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      425.75,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": " ",
+    "dir": "ltr",
+    "width": 86.01999999999998,
+    "height": 0,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      439.28,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  },
+  {
+    "str": "подпись",
+    "dir": "ltr",
+    "width": 22.668000000000024,
+    "height": 6,
+    "transform": [
+      6,
+      0,
+      0,
+      6,
+      525.3,
+      42.839
+    ],
+    "fontName": "g_d0_f1",
+    "hasEOL": false
+  }
+]

@@ -1,0 +1,197 @@
+{
+  "page": {
+    "width": 595,
+    "height": 842,
+    "units": "pt",
+    "origin": "top-left"
+  },
+  "template": {
+    "path": "/assets/template.png",
+    "dpi": 300,
+    "containsSourceTextLayer": false
+  },
+  "logo": {
+    "path": "/assets/logo.png",
+    "originalWidth": 768,
+    "originalHeight": 136,
+    "placement": [
+      24.55,
+      13.55,
+      103.7,
+      20.1
+    ]
+  },
+  "fields": {
+    "issueDate": [
+      106.5,
+      79.8,
+      59.5,
+      20.2
+    ],
+    "validUntil": [
+      226,
+      79.8,
+      68.5,
+      20.2
+    ],
+    "eventDate": [
+      55.8,
+      104.2,
+      44.6,
+      19.4
+    ],
+    "inspectionDate": [
+      140.9,
+      104.2,
+      43.6,
+      19.4
+    ],
+    "claimNumber": [
+      226,
+      104.2,
+      68.5,
+      19.4
+    ],
+    "policyholder": [
+      87.7,
+      126.7,
+      206.8,
+      22.5
+    ],
+    "policyNumber": [
+      55.1,
+      152.3,
+      129.5,
+      11.5
+    ],
+    "deductible": [
+      226,
+      152.3,
+      68.5,
+      12.6
+    ],
+    "carModel": [
+      340.1,
+      79.8,
+      229.5,
+      20.2
+    ],
+    "vin": [
+      340.1,
+      104.2,
+      122.1,
+      19.4
+    ],
+    "mileage": [
+      504.0,
+      104.2,
+      65.6,
+      19.4
+    ],
+    "registration": [
+      369.4,
+      126.7,
+      92.8,
+      22.5
+    ],
+    "year": [
+      504.0,
+      126.7,
+      65.6,
+      22.5
+    ],
+    "color": [
+      340.1,
+      151.5,
+      229.5,
+      14.2
+    ],
+    "notes": [
+      301.0,
+      231.0,
+      266.4,
+      129.0
+    ],
+    "stationName": [
+      362.8,
+      384.0,
+      202.5,
+      12.0
+    ],
+    "stationAddress": [
+      362.8,
+      399.7,
+      202.5,
+      22.9
+    ],
+    "stationPhone": [
+      362.8,
+      423.5,
+      202.5,
+      12.3
+    ],
+    "insurerRepresentative": [
+      87.7,
+      785.8,
+      139.0,
+      21.0
+    ],
+    "victimName": [
+      357.0,
+      785.8,
+      146.5,
+      21.0
+    ]
+  },
+  "repairMarks": {
+    "columnCenters": {
+      "repair": 245.825,
+      "replacement": 265.325,
+      "paint": 285.3
+    },
+    "rowCenters": {
+      "headlightRight": 268.7,
+      "headlightLeft": 290.1,
+      "wheel": 763.2
+    },
+    "serviceMarks": {
+      "headlights": [
+        [
+          245.825,
+          268.7
+        ],
+        [
+          245.825,
+          290.1
+        ]
+      ],
+      "wheels": [
+        [
+          245.825,
+          763.2
+        ],
+        [
+          285.3,
+          763.2
+        ]
+      ],
+      "parts": [],
+      "harness": []
+    }
+  },
+  "sourceExtraction": {
+    "method": "Filter text items by center point in each field box; join same-baseline runs left-to-right, then lines top-to-bottom. Notes include claimant/phone. Validate page size and fixed form labels before trusting boxes.",
+    "claimantNotesBox": [
+      299.8,
+      245,
+      269.5,
+      115
+    ],
+    "claimantPhonePattern": "\\(Тел\\.:\\s*([^)]*)\\)",
+    "notes": "The source address is multiline. Preserve spelling and punctuation. Source color is empty. Source repair marks are intentionally discarded."
+  },
+  "redaction": {
+    "method": "Fresh RGB raster; dynamic rectangles blanked; all source x marks cleared; no PDF objects or metadata copied.",
+    "removedMarkCount": 4
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "sovcom-referrals",
+  "version": "1.5.3",
+  "private": true,
+  "packageManager": "npm@10.9.4",
+  "type": "module",
+  "scripts": {
+    "setup:demo": "tsx scripts/setup-demo.ts",
+    "dev": "npm run setup:demo && vite --mode sourcecraft --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build --mode sourcecraft && tsx scripts/package-static.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "fixtures": "python scripts/generate_fixtures.py",
+    "preview": "vite preview --host 127.0.0.1",
+    "check:publication": "node scripts/check-publication.mjs"
+  },
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "bcryptjs": "3.0.3",
+    "lucide-react": "^0.468.0",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^6.2.108",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0",
+    "vite": "^6.4.0",
+    "vite-plugin-singlefile": "^2.3.0"
+  }
+}

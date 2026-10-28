@@ -1,0 +1,14 @@
+node_modules/
+dist/
+output/
+private-local/
+tmp/
+.playwright-cli/
+directory.json
+.env
+.env.local
+.env.*.local
+tests/fixtures/input/
+*.pdf
+*.zip
+*.eml

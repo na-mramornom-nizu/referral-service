@@ -1,0 +1,66 @@
+{
+  "format": "sovcom-referrals-directory",
+  "version": 1,
+  "revision": 1,
+  "publicationId": "demo-v1",
+  "basePublicationId": "",
+  "updatedAt": "2026-10-28T00:00:00Z",
+  "users": [
+    {
+      "id": "admin",
+      "name": "Администратор",
+      "role": "admin",
+      "hash": "$2b$10$dOrPbeqN5/6FXZEy3Jjd8.h3wISy/F4YMEmPg7GqSGa5u0z1b3H72",
+      "authVersion": 1
+    },
+    {
+      "id": "demo-user",
+      "name": "Сотрудник 001",
+      "role": "employee",
+      "hash": "$2b$10$dOrPbeqN5/6FXZEy3Jjd8.h3wISy/F4YMEmPg7GqSGa5u0z1b3H72",
+      "authVersion": 1
+    }
+  ],
+  "settings": {
+    "stations": [
+      {
+        "id": "station-1",
+        "name": "СТО 1",
+        "address": "Тестовый город, ул. Сервисная, д. 1",
+        "phone": "+7 (000) 000-00-01",
+        "email": "",
+        "services": [
+          "wheels",
+          "harness"
+        ],
+        "draft": true
+      },
+      {
+        "id": "sales",
+        "name": "ООО «СЕЙЛС-ПАРТС»",
+        "address": "Тестовый город, ул. Сервисная, д. 2",
+        "phone": "+7 (000) 000-00-01",
+        "email": "",
+        "services": [
+          "parts",
+          "lights",
+          "wheels"
+        ],
+        "draft": true
+      },
+      {
+        "id": "light",
+        "name": "ООО «ЛУЧШИЙ СВЕТ»",
+        "address": "Тестовый город, ул. Сервисная, д. 3",
+        "phone": "+7 (000) 000-00-03",
+        "email": "",
+        "services": [
+          "lights"
+        ],
+        "draft": true
+      }
+    ],
+    "subject": "Направление на {service} — убыток {claim}",
+    "body": "Добрый день!\n\nНаправляем документ на {service}.\nНомер убытка: {claim}.\nАвтомобиль: {car}, госномер {registration}.\nИсполнитель: {station}.\n\nПросим подтвердить получение.\n\nС уважением,\n{employee}"
+  }
+}
